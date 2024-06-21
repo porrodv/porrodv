@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Alexander Porro</h1>
+<h1 align="center">Hola 👋, soy Alexander Porro</h1>
 <h3 align="center">Desarrollador web Junior</h3>
 
 Desarrollador junior con +2 años de experiencia trabajando de forma profesional como practicante, de manera autónoma como freelancer y realizando proyectos personales y académicos
