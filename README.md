@@ -10,7 +10,7 @@ Desarrollador junior con +2 años de experiencia trabajando de forma pre-profesi
 ## Conecta conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alexander-porro-ba5755191/" target="blank">
+  <a href="https://www.linkedin.com/in/alexander-porro/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-porro-ba5755191/" height="30" width="40" />
   </a>
 </p>
